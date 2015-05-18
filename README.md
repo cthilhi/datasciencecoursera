@@ -1,4 +1,4 @@
 # datasciencecoursera
-## does this count for extra credit?
-*yes
-*no
+### does this count for extra credit?
+* yes
+* no
